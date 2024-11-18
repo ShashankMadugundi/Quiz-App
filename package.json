@@ -8,7 +8,6 @@
   "deploy": "gh-pages -d dist",
   "build": "vite build",
   "start": "vite",
-  "homepage":"https://quiz-app-production-8a29.up.railway.app/",
 },
   "dependencies": {
     "@emotion/react": "^11.11.4",
