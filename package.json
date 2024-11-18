@@ -4,12 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://ShashankMadugundi.github.io/Quiz-App",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
-  "build": "vite build",
-  "start": "vite",
-},
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "build": "vite build",
+    "start": "vite"
+  },
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
